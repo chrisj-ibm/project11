@@ -2,7 +2,7 @@
     "entry_points": [{
         "application_type":"RShiny",
         "dependencies": {
-            "software_specification": "rstudio-23.1-r4.2"
+            "software_specification": "rstudio_r4.2"
         }
     }]
 }
